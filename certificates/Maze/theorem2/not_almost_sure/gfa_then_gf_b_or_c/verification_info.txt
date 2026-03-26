@@ -1,0 +1,5 @@
+Verification verdict: False
+Invariant violations: 0
+Certificate 0:
+  Strict decreasing violations: 1
+  Non-increasing violations: 2

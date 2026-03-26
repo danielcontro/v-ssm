@@ -1,0 +1,8 @@
+Verification verdict: False
+Invariant violations: 0
+Certificate 0:
+  Strict decreasing violations: 8
+  Non-increasing violations: 28
+Certificate 1:
+  Strict decreasing violations: 0
+  Non-increasing violations: 0
